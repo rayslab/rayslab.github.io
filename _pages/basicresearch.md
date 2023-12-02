@@ -7,11 +7,15 @@ nav: true
 nav_order: 60
 ---
 
-<p style="text-align: center;">
-	"It's of no use whatsoever. This is just an experiment that proves Maestro Maxwell was right - we just have these mysterious electromagnetic waves that we cannot see with the naked eye, but they are there."
+----
+<p style="text-align: center;" markdown=1>
 
-
-	-- Heinrich Hertz, when asked about the his experimental demonstration of electromagnetic waves
+"It's of no use whatsoever. This is just an experiment that proves Maestro Maxwell was right - we just have these mysterious electromagnetic waves that we cannot see with the naked eye, but they are there."
+<br>
+<br>
+*-- Heinrich Hertz*,
+<br>
+*when asked about the his experimental demonstration of electromagnetic waves*
 </p>
 ----
 
