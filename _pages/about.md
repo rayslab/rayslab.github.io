@@ -8,10 +8,6 @@ profile:
   align: right
   image: img_4132_lowres.png
   image_circular: false # crops the image to make it circular
-  <!-- more_info: > -->
-  <!--   <p>555 your office number</p> -->
-  <!--   <p>123 your address street</p> -->
-  <!--   <p>Your City, State 12345</p> -->
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -19,8 +15,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+How does the brain process information to generate behavior? Finding answers to parts of this question is the overarching goal of our research. In particular, we want to figure out how animals navigate their environment using their senses.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Animals need to move around in order to find food and mate, and to escape predators and other dangers. For this the brain combines different sensory streams like vision, smell, touch, and hearing, along with information from prior experience. We are interested in understanding the neural pathways and mechanisms of this process.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+For this, we look at the behavior of animals while manipulating their sensory inputs. We can study its physiology by recording the activities of neurons in the brain in response to various stimuli. Simple model animals like insects are well suited for these studies because they are usually robust and easy to experiment with.
+
+We can then use experimental data to build computational models. This allows us to explore hypothetical scenarios beyond what is possible in physical experiments. Conducting such *in silico* experiments can help us understand the processes of our interest theoretically.
+
+In terms of techniques, we use computer vision algorithms to analyze behavior of animals from recorded videos. We apply signal processing, information theory, and other tools for analyzing electrophysiological data. We also develop biophysically detailed models of single neurons and their networks, and simulate them on computers. This requires simulators, precise formats for describing neuronal models and data (experimental and simulated), and other Neuroinformatics tools.
