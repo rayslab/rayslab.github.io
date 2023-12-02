@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: Courses/workshops taught
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 ## At Plaksha University

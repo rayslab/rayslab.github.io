@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Plaksha University
+subtitle: >
+    Affiliation: Plaksha University
 
 profile:
   align: right
@@ -19,6 +20,8 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
+nav: true
+nav_order: 1
 ---
 
 How does the brain process information to generate behavior? Finding answers to parts of this question is the overarching goal of our research. In particular, we want to figure out how animals navigate their environment using their senses.
