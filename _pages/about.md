@@ -6,9 +6,9 @@ subtitle: >
     Affiliation: Plaksha University
 
 profile:
-  align: right
+  align: left
   image: img_4132_2048px.png
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>Plaksha University</p>
     <p>Alpha, Sector 101,</p>
@@ -20,8 +20,8 @@ news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
-nav: true
-nav_order: 1
+<!-- nav: true -->
+<!-- nav_order: 1 -->
 ---
 
 How does the brain process information to generate behavior? Finding answers to parts of this question is the overarching goal of our research. In particular, we want to figure out how animals navigate their environment using their senses.
