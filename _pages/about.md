@@ -2,17 +2,23 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Plaksha University, Alpha, Sector 101, IT City Rd, Sahibzada Ajit Singh Nagar, Punjab 140306
+subtitle: <a href='#'>Affiliations</a>. Plaksha University
 
 profile:
   align: center
   image: img_4132_2048px.png
   image_circular: false # crops the image to make it circular
+  more_info: >
+	<p>Plaksha University</p>
+	<p>Alpha, Sector 101,</p>
+	<p>IT City Rd,</p>
+	<p>Sahibzada Ajit Singh Nagar,</p>
+	<p>Punjab, India, 140306</p> 
 
-news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
 How does the brain process information to generate behavior? Finding answers to parts of this question is the overarching goal of our research. In particular, we want to figure out how animals navigate their environment using their senses.
