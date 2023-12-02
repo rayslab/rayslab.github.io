@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /basic-research/
-title: on basic research
+permalink: /resources/
+title: resources
 description: online resources on various topics
 nav: true
 nav_order: 70
