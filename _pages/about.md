@@ -5,10 +5,10 @@ permalink: /
 subtitle: <a href='#'>Affiliations</a>. Plaksha University
 
 profile:
-  align: center
+  align: left
   image: img_4132_2048px.png
   image_circular: false # crops the image to make it circular
-  more_info: >
+  address: >
 	<p>Plaksha University</p>
 	<p>Alpha, Sector 101,</p>
 	<p>IT City Rd,</p>
