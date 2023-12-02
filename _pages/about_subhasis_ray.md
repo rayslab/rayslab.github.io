@@ -2,8 +2,8 @@
 
 *Principal Investigator*
 
-Currently I work at Plaksha University, India, as an Assistant Professor. My undergraduate training was in Computer Science and Engineering, and later I worked on Computational Neuroscience at NCBS, TIFR, Bangalore for my PhD. There I worked on computational modeling of biological neural networks, developing a simulator for biology research, and developing data and model description formats.
+I work as an assistant professor at Plaksha University, India. My undergraduate training was in Computer Science and Engineering, and later I moved on to study Computational Neuroscience at the National Centre for Biological Sciences (NCBS), TIFR, Bangalore, for my PhD. There I worked on computational modeling of biological neural networks, developing a simulator for biology research, and developing data and model description formats.
 
-After obtaining my PhD, I joined the NIH, Bethesda for my Postdoctoral research. There I conducted electrophysiological and behavioral experiments on animal models, and combined experimental results with computational modeling to answer fundamental questions in neural information processing.
+I did my postdoctoral research at the National Institutes of Health (NIH), Bethesda. I learnt electrophysiology, microscopy, and other techniques and carried out animal experiments to study the sense of smell. I combined computational modeling with experiments to answer fundamental questions in neural information processing.
 
-At present I am interested in studying how sensory inputs and experience control behavior in animals. I am also interested in developing software for biology research, and in applications of Artificial Intelligence in biology.
+I am primarily interested in biological intelligence, though I utilize artificial intelligence as a useful tool. I also develop software to facilitate research.
