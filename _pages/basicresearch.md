@@ -19,7 +19,7 @@ nav_order: 60
 </p>
 ----
 
-Our primary focus is basic research (also called fundamental research), which is driven by curiosity and aimed at enhancing our knowledge of nature. We are frequently asked to justify the value of such work. However, it is impossible to predict what value a piece of knowledge will bring in the future. True research is about going after the unknown, and as Albert Einstein had put it "If we knew what it was we were doing, it would not be called research, would it?"
+Our primary focus is basic research (also called fundamental research), which is driven by curiosity and aimed at gaining knowledge of nature. We are frequently asked to justify the value of such work. This is analogous to evaluating education by the money students make afterwards. It is impossible to predict what value a piece of knowledge will bring in the future. True research is about going after the unknown, and as Albert Einstein had put it "If we knew what it was we were doing, it would not be called research, would it?"
 
 However, that hardly convinces the skeptics. Much has been written about the value of basic research, so instead of repeating these arguments, here is a list of articles on this topic:
 
