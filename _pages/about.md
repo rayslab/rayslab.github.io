@@ -3,18 +3,16 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-    Affiliation: Plaksha University
+    Affiliation: Plaksha University,
+    Alpha, Sector 101,
+    IT City Rd,
+    Sahibzada Ajit Singh Nagar,
+    Punjab, India, 140306
 
 profile:
   align: left
   image: img_4132_2048px.png
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Plaksha University</p>
-    <p>Alpha, Sector 101</p>
-    <p>IT City Rd</p>
-    <p>Sahibzada Ajit Singh Nagar</p>
-    <p>Punjab, India, 140306</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
