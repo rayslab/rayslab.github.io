@@ -8,4 +8,4 @@ I did my postdoctoral research at the National Institutes of Health (NIH), Bethe
 
 I am primarily interested in biological intelligence, though I utilize artificial intelligence as a useful tool. I also develop software to facilitate research.
 
-###### *Image credit: Mark Stopfer*
+###### *Photo: Mark Stopfer*
