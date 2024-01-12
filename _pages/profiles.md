@@ -18,10 +18,6 @@ profiles:
     content: about_prashant_tiwari.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: shagun_rana_480px.png
-    content: about_shagun_rana.md
-    image_circular: false # crops the image to make it circular
-  - align: left
     image: harshpreet_kaur_480px.png
     content: about_harshpreet_kaur.md
     image_circular: false # crops the image to make it circular
