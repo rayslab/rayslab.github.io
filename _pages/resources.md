@@ -34,6 +34,7 @@ nav_order: 70
 ### Books
   * [The Book of GENESIS](http://www.genesis-sim.org/GENESIS/bog/bog.html): a free book on neuroscience simulations in the context of the GENESIS simulator. Very readable introduction to computational neuroscience irrespective of the simulator
   * [Wulfram Gerstner's book](https://neuronaldynamics.epfl.ch/)
+  * [Bioelectromagnetism by Malmivuo and Plonsey](http://www.bem.fi/book/index.htm): free book that includes much of biophysics of neuroscience.
 
 ### Courses
   * [Wulfram Gerstner's course at EPFL](https://lcnwww.epfl.ch/gerstner/NeuronalDynamics-MOOCall.html)
