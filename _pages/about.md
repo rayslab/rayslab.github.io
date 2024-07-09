@@ -3,9 +3,8 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-    Affiliation: CHINTA and IAI, TCG CREST
-	Kolkata, India
-	
+    Affiliation: CHINTA and IAI, TCG CREST, Kolkata, India
+
 profile:
   align: left
   image: img_4132_2048px.png
