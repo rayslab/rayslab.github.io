@@ -28,3 +28,5 @@ For this, we look at the behavior of animals while manipulating their sensory in
 We can then use experimental data to build computational models. This allows us to explore hypothetical scenarios beyond what is possible in physical experiments. Conducting such *in silico* experiments can help us understand the processes of our interest theoretically.
 
 In terms of techniques, we use computer vision algorithms to analyze behavior of animals from recorded videos. We apply signal processing, information theory, and other tools for analyzing electrophysiological data. We also develop biophysically detailed models of single neurons and their networks, and simulate them on computers. This requires simulators, precise formats for describing neuronal models and data (experimental and simulated), and other Neuroinformatics tools.
+
+###### *Image: Subhasis Ray*
