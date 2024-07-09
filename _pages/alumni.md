@@ -25,5 +25,4 @@ profiles:
     image: harshpreet_kaur_480px.png
     content: about_harshpreet_kaur.md
     image_circular: false # crops the image to make it circular
-	
 ---
