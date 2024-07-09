@@ -3,12 +3,9 @@ layout: about
 title: about
 permalink: /
 subtitle: >
-    Affiliation: Plaksha University,
-    Alpha, Sector 101,
-    IT City Rd,
-    Sahibzada Ajit Singh Nagar,
-    Punjab, India, 140306
-
+    Affiliation: CHINTA and IAI, TCG CREST
+	Kolkata, India
+	
 profile:
   align: left
   image: img_4132_2048px.png
