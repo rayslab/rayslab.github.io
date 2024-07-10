@@ -14,7 +14,7 @@ profiles:
     content: about_mugdha_joshi.md
     <!-- image_circular: false # crops the image to make it circular	 -->
   - align: left
-    <!-- image: subhasis_ray_480px.png -->
+    image: prithwiraj_samanta_480px.png
     content: about_prithwiraj_samanta.md
     <!-- image_circular: false # crops the image to make it circular	 -->
   - align: left
