@@ -4,7 +4,7 @@ title: about
 permalink: /
 subtitle: >
     Affiliation: CHINTA and IAI, TCG CREST, Kolkata, India
-
+    image: TCG_skyline_small.png
 profile:
   align: left
   image: img_4132_2048px.png
