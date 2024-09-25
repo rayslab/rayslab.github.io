@@ -35,7 +35,7 @@ In terms of techniques, we use computer vision algorithms to analyze behavior of
            width: 100%;"
 		   src="../assets/img/TCG_skyline_small.png" 
 		   alt="Kolkata Skyline from TCG CREST Building" class="center">
-		   </img>
+
 *<small style="text-align:center;">Kolkata Skyline from TCG CREST Building</small>*
 
 ###### *Images: Subhasis Ray*
