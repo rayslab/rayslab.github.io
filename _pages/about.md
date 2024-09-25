@@ -28,7 +28,14 @@ We can then use experimental data to build computational models. This allows us 
 In terms of techniques, we use computer vision algorithms to analyze behavior of animals from recorded videos. We apply signal processing, information theory, and other tools for analyzing electrophysiological data. We also develop biophysically detailed models of single neurons and their networks, and simulate them on computers. This requires simulators, precise formats for describing neuronal models and data (experimental and simulated), and other Neuroinformatics tools.
 
 
-![Kolkata Skyline from TCG CREST Building](../assets/img/TCG_skyline_small.png)
-*<small>Kolkata Skyline from TCG CREST Building</small>*
+<img 
+    style="display: block; 
+           margin-left: auto;
+           margin-right: auto;
+           width: 100%;"
+		   src="../assets/img/TCG_skyline_small.png" 
+		   alt="Kolkata Skyline from TCG CREST Building" class="center">
+		   </img>
+*<small style="text-align:center;">Kolkata Skyline from TCG CREST Building</small>*
 
 ###### *Images: Subhasis Ray*
