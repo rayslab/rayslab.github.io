@@ -14,6 +14,10 @@ profiles:
     content: about_mugdha_joshi.md
     image_circular: false # crops the image to make it circular
   - align: left
+    image: smiley.png
+    content: about_anshuman_ashish.md
+    image_circular: false # crops the image to make it circular
+  - align: left
     image: parita_mehta_480px.png
     content: about_parita_mehta.md
     image_circular: false # crops the image to make it circular
