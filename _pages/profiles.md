@@ -14,8 +14,12 @@ profiles:
     content: about_mugdha_joshi.md
     image_circular: false # crops the image to make it circular
   - align: left
-    image: smiley.png
+    image: anshuman_ashish_480px.png
     content: about_anshuman_ashish.md
+    image_circular: false # crops the image to make it circular
+  - align: left
+    image: jayesh_poojari_480px.png
+    content: about_jayesh_poojari.md
     image_circular: false # crops the image to make it circular
   - align: left
     image: parita_mehta_480px.png
