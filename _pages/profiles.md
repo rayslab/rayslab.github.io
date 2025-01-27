@@ -10,6 +10,10 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
+    image: gautham_dathatreyan_480px.png
+    content: about_gautham_dathatreyan.md
+    image_circular: false # crops the image to make it circular
+  - align: left
     image: anshuman_ashish_480px.png
     content: about_anshuman_ashish.md
     image_circular: false # crops the image to make it circular
