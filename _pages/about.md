@@ -27,6 +27,19 @@ We can then use experimental data to build computational models. This allows us 
 
 In terms of techniques, we use computer vision algorithms to analyze behavior of animals from recorded videos. We apply signal processing, information theory, and other tools for analyzing electrophysiological data. We also develop biophysically detailed models of single neurons and their networks, and simulate them on computers. This requires simulators, precise formats for describing neuronal models and data (experimental and simulated), and other Neuroinformatics tools.
 
+**Lines of work**
+
+Our research activities have the following technical subcomponents:
+
+1. Animal experiments
+   1. Electrophysiology and histology: This involves recording neural activity from awake insect brains under various conditions, injecting dyes into neurons or brain regions and finding structure and anatomical connectivity of neurons and brain regions.
+   2. Behavior: This involves designing behavioral experiments and recording the activities of the animals using videography or other techniques, and analyzing the behavior.
+   
+2. Computational work
+   1. Developing computational/mathematical models of neurons, brain networks, and simulating them with various parameter settings. These simulation experiments can give theoretical insight into how the brain works.
+   2. Developing simulation tool: We are actively working on the MOOSE simulator (https://moose.ncbs.res.in) to add features and documentation, and make it easy to use for both students and researchers.
+   3. Other software tools: We also maintain several free and open source software tools like argos (https://github.com/subhacom/argos) for tracking multiple animals/objects, nsdf (https://github.com/nsdf/nsdf) for storing neuroscience simulation data, etc.
+   
 
 <img 
     style="display: block; 
