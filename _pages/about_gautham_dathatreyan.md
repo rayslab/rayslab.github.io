@@ -1,6 +1,6 @@
 **Gautham Dathatreyan**
 
-**Project Assistant**
+*Project Assistant*
 
 Gautham completed his Integrated Master's in Physics from Amrita Vishwa Vidyapeetham, Coimbatore Campus. His passion for computational neuroscience and interdisciplinary research led him to pursue his master's thesis at the Amrita Mind Brain Center. There, he worked on the automated reduction of complex, multicompartmental biophysical neuron models, including cerebellar neurons, into simpler spiking neuron models. This work aimed to optimize computational efficiency, enabling the simulation of large-scale neuronal networks for behavioural modelling and analysis.
 
