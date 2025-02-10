@@ -37,8 +37,8 @@ Our research activities have the following technical subcomponents:
    
 2. Computational work
    1. Developing computational/mathematical models of neurons, brain networks, and simulating them with various parameter settings. These simulation experiments can give theoretical insight into how the brain works.
-   2. Developing simulation tool: We are actively working on the MOOSE simulator (https://moose.ncbs.res.in) to add features and documentation, and make it easy to use for both students and researchers.
-   3. Other software tools: We also maintain several free and open source software tools like argos (https://github.com/subhacom/argos) for tracking multiple animals/objects, nsdf (https://github.com/nsdf/nsdf) for storing neuroscience simulation data, etc.
+   2. Developing simulation tool: We are actively working on [the MOOSE simulator](https://moose.ncbs.res.in) to add features and documentation, and make it easy to use for both students and researchers.
+   3. Other software tools: We also maintain several free and open source software tools like [argos](https://github.com/subhacom/argos) for tracking multiple animals/objects, [nsdf](https://github.com/nsdf/nsdf) for storing neuroscience simulation data, etc.
    
 
 <img 
