@@ -18,6 +18,10 @@ profiles:
     content: about_anshuman_ashish.md
     image_circular: false # crops the image to make it circular
   - align: left
+    image: deepa_sm.png
+    content: about_deepa_sm.md
+    image_circular: false # crops the image to make it circular
+  - align: left
     image: jayesh_poojari_480px.png
     content: about_jayesh_poojari.md
     image_circular: false # crops the image to make it circular
