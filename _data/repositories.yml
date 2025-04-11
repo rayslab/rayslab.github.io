@@ -1,11 +1,14 @@
 github_users:
+  - ashxhuman
+  - GauthamD99
+  - Jayesh251
   - subhacom
 
 github_repos:
+  - MooseNeuro/moose-core
+  - MooseNeuro/moose-notebooks
+  - MooseNeuro/moose-examples
   - subhacom/argos
-  - subhacom/argos_tracker
-  - subhacom/mbnet
-  - BhallaLab/moose-core
-  - BhallaLab/moose-examples
+  - nsdf/nsdf
 
   

@@ -6,17 +6,11 @@ description: group members
 nav: true
 nav_order: 20
 
-<img 
-    style="display: block; 
-           margin-left: auto;
-           margin-right: auto;
-           width: 100%;"
-		   src="../assets/img/rayslab_20250410.png" 
-		   alt="Ray lab photo" class="center">
-
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: left
+    image: rayslab_20250410.png
   - align: left
     image: gautham_dathatreyan_480px.png
     content: about_gautham_dathatreyan.md
