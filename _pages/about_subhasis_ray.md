@@ -8,4 +8,4 @@ I conducted my postdoctoral research at the National Institutes of Health (NIH),
 
 I am primarily interested in biological intelligence, though I also use artificial intelligence as a valuable tool. I also develop software to facilitate scientific research and education.
 
-###### *Photo: Arindam Chakrabarty*
+###### *Photo: Arindam Chakraborty*
