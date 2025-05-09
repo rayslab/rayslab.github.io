@@ -32,6 +32,10 @@ profiles:
     content: about_parita_mehta.md
     image_circular: false # crops the image to make it circular
   - align: left
+    image: pragathi_r.jpg
+    content: about_pragathi_r.md
+    image_circular: false # crops the image to make it circular
+  - align: left
     image: subhasis_ray_480px.png
     content: about_subhasis_ray.md
     image_circular: false # crops the image to make it circular	
