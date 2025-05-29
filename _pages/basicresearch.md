@@ -23,6 +23,8 @@ Our primary focus is basic research (also called fundamental research), which is
 
 However, that hardly convinces the skeptics. Much has been written about the value of basic research, so instead of repeating these arguments, here is a list of articles on this topic:
 
+- [Post](https://www.deeplearning.ai/the-batch/issue-303/) by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), a great teacher and one of the leaders in the AI/ML field, expressing concern over funding cut on basic research.
+
 - What is value? Stanford Encyclopedia of Philosophy on [Intrinsic and extrinsic value](https://plato.stanford.edu/entries/value-intrinsic-extrinsic/)
 
 - [A reddit post summarizing a lot of history and other sources](https://www.reddit.com/r/biology/comments/1anyor/comment/c8zfpkf/)
