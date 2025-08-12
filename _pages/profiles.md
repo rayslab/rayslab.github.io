@@ -16,6 +16,10 @@ profiles:
     content: about_gautham_dathatreyan.md
     image_circular: true # crops the image to make it circular
   - align: left
+    image: jyotirmay_srivastava.png
+    content: about_jyotirmay_srivastava.md
+    image_circular: true # crops the image to make it circular  
+  - align: left
     image: anshuman_ashish_480px.png
     content: about_anshuman_ashish.md
     image_circular: true # crops the image to make it circular
