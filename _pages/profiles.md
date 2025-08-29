@@ -40,6 +40,10 @@ profiles:
     content: about_pragathi_r.md
     image_circular: true # crops the image to make it circular
   - align: left
+    image: sivaraju.png
+    content: about_sivaraju.md
+    image_circular: true # crops the image to make it circular	
+  - align: left
     image: subhasis_ray_480px.png
     content: about_subhasis_ray.md
     image_circular: true # crops the image to make it circular	
