@@ -18,10 +18,14 @@ profiles:
   - align: left
     image: jyotirmay_srivastava.png
     content: about_jyotirmay_srivastava.md
-    image_circular: true # crops the image to make it circular  
+    image_circular: true # crops the image to make it circular
   - align: left
     image: anshuman_ashish_480px.png
     content: about_anshuman_ashish.md
+    image_circular: true # crops the image to make it circular
+  - align: left
+    image: banhita_maitra.png
+    content: about_banhita_maitra.md
     image_circular: true # crops the image to make it circular
   - align: left
     image: deepa_sm.png
@@ -42,9 +46,9 @@ profiles:
   - align: left
     image: sivaraju.png
     content: about_sivaraju.md
-    image_circular: true # crops the image to make it circular	
+    image_circular: true # crops the image to make it circular
   - align: left
     image: subhasis_ray_480px.png
     content: about_subhasis_ray.md
-    image_circular: true # crops the image to make it circular	
+    image_circular: true # crops the image to make it circular
 ---
