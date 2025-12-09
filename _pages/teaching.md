@@ -7,7 +7,9 @@ nav: true
 nav_order: 40
 ---
 ## At CHINTA, TCG CREST
-- 2025 Fundamental of Neuroscience (Basic Neurophysiology module) (PhD)
+- 2025: Fundamental of Neuroscience (Basic Neurophysiology module) (PhD)
+- 2025: Multiscale Modelling with MOOSE Workshop at CHINTA, Kolkata, India
+- 2025, 2024: CAMP (Computational Approaches to Memory and Plasticity) Summer School at IISER, Pune, India
 
 ## At Plaksha University
 - 2023: Introduction to Data Science (UG)
