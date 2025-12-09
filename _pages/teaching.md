@@ -6,6 +6,8 @@ description: Courses/workshops taught
 nav: true
 nav_order: 40
 ---
+## At CHINTA, TCG CREST
+- 2025 Fundamental of Neuroscience (Basic Neurophysiology module) (PhD)
 
 ## At Plaksha University
 - 2023: Introduction to Data Science (UG)
