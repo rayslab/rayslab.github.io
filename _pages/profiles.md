@@ -10,7 +10,7 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
-    image: rayslab_20250410.png
+    image: rayslab_20251217.jpg
   - align: left
     image: gautham_dathatreyan_480px.png
     content: about_gautham_dathatreyan.md
