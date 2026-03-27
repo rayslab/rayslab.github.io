@@ -50,6 +50,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 
+logo: /assets/img/rayslab_logo.svg
 # Dimensions
 max_width: 800px
 

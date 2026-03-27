@@ -15,7 +15,7 @@ nav_order: 60
 <br>
 *-- Heinrich Hertz*,
 <br>
-*when asked about the his experimental demonstration of electromagnetic waves*
+*when asked about his experimental demonstration of electromagnetic waves*
 </p>
 ----
 
