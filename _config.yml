@@ -51,7 +51,7 @@ navbar_fixed: true
 footer_fixed: true
 
 
-logo: /assets/img/rayslab_logo.svg
+logo: /assets/img/logo_bug_small_2.png
 favicon: /assets/img/logo_bug_small_2.png
 # Dimensions
 max_width: 800px
