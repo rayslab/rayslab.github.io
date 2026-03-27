@@ -50,8 +50,7 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 
-serve_og_meta: true
-og_image: /assets/img/logo_bug_small_2.png
+
 logo: /assets/img/rayslab_logo.svg
 favicon: /assets/img/logo_bug_small_2.png
 # Dimensions
@@ -63,9 +62,9 @@ max_width: 800px
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
-serve_og_meta: false # Include Open Graph meta tags in the HTML head
+serve_og_meta: true # Include Open Graph meta tags in the HTML head
 serve_schema_org: false # Include Schema.org in the HTML head
-og_image: # The site-wide (default for all links) Open Graph preview image
+og_image: /assets/img/logo_bug_small_2.png  # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
 # Social integration
