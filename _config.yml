@@ -50,7 +50,10 @@ rss_icon: false
 navbar_fixed: true
 footer_fixed: true
 
+serve_og_meta: true
+og_image: /assets/img/logo_bug_small_2.png
 logo: /assets/img/logo_bug_small_2.png
+favicon: /assets/img/logo_bug_small_2.png
 # Dimensions
 max_width: 800px
 
