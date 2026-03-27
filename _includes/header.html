@@ -6,6 +6,9 @@
         <div class="container">
           {% if page.permalink != '/' -%}
           <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
+            {%- if site.logo -%}
+              <img src="{{ site.logo }}" alt="{{ site.title }}" height="40">&nbsp;
+            {%- endif -%}
             {%- if site.title == "blank" -%}
               {%- if site.first_name -%}
                 <span class="font-weight-bold">{{- site.first_name -}}&nbsp;</span>
@@ -21,6 +24,11 @@
             {%- endif -%}
           </a>
           {%- elsif site.enable_navbar_social -%}
+          {%- if site.logo -%}
+          <a class="navbar-brand" href="{{ site.baseurl }}/">
+            <img src="{{ site.logo }}" alt="{{ site.title }}" height="40">
+          </a>
+          {%- endif -%}
           <!-- Social Icons -->
           <div class="navbar-brand social">
             {% include social.html %}
