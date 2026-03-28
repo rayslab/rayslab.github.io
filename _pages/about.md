@@ -29,24 +29,26 @@ In terms of techniques, we use computer vision algorithms to analyze behavior of
 
 **Lines of work**
 
+{% include figure.liquid path="assets/img/lab_logo_small.png" class="img-fluid rounded z-depth-1" %}
+
 Our research activities have the following technical subcomponents:
 
 1. Animal experiments
    1. Electrophysiology and histology: This involves recording neural activity from awake insect brains under various conditions, injecting dyes into neurons or brain regions and finding structure and anatomical connectivity of neurons and brain regions.
    2. Behavior: This involves designing behavioral experiments and recording the activities of the animals using videography or other techniques, and analyzing the behavior.
-   
+
 2. Computational work
    1. Developing computational/mathematical models of neurons, brain networks, and simulating them with various parameter settings. These simulation experiments can give theoretical insight into how the brain works.
    2. Developing simulation tool: We are actively working on [the MOOSE simulator](https://mooseneuro.github.io) to add features and documentation, and make it easy to use for both students and researchers.
    3. Other software tools: We also maintain several free and open source software tools like [argos](https://github.com/subhacom/argos) for tracking multiple animals/objects, [nsdf](https://github.com/nsdf/nsdf) for storing neuroscience simulation data, etc.
-   
 
-<img 
-    style="display: block; 
+
+<img
+    style="display: block;
            margin-left: auto;
            margin-right: auto;
            width: 100%;"
-		   src="../assets/img/TCG_skyline_small.png" 
+		   src="../assets/img/TCG_skyline_small.png"
 		   alt="Kolkata Skyline from TCG CREST Building" class="center">
 
 *<small style="text-align:center;">Kolkata Skyline from TCG CREST Building</small>*
