@@ -27,9 +27,9 @@ We can then use experimental data to build computational models. This allows us 
 
 In terms of techniques, we use computer vision algorithms to analyze behavior of animals from recorded videos. We apply signal processing, information theory, and other tools for analyzing electrophysiological data. We also develop biophysically detailed models of single neurons and their networks, and simulate them on computers. This requires simulators, precise formats for describing neuronal models and data (experimental and simulated), and other Neuroinformatics tools.
 
-<img src="../assets/img/rayslab_logo_small.svg" style="float: left; max-width: 200px; margin-right: 20px; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Lab logo">
-
 **Lines of work**
+
+<img src="../assets/img/rayslab_logo_small.svg" style="max-width: 200px; display: block; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Lab logo">
 
 Our research activities have the following technical subcomponents:
 
