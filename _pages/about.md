@@ -29,7 +29,7 @@ In terms of techniques, we use computer vision algorithms to analyze behavior of
 
 **Lines of work**
 
-{% include figure.html path="assets/img/lab_logo_small.png" class="img-fluid rounded z-depth-1 mx-auto d-block" max-width="150px" %}
+<img src="../assets/img/lab_logo_small.png" style="float: left; max-width: 150px; margin-right: 20px; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Lab logo">
 
 Our research activities have the following technical subcomponents:
 
