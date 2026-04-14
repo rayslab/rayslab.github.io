@@ -9,8 +9,14 @@ nav_order: 20
 profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
+  - align: center
+    image: 2026_04_11_lab_image_1_sivaraju.png
   - align: left
-    image: rayslab_20251217.jpg
+    image: 2026_04_11_lab_image_2_sivaraju.png
+  - align: center
+    image: 2026_04_11_lab_image_3_sivaraju.png
+  - align: right
+    image: 2026_04_11_lab_image_subha.png
   - align: left
     image: gautham_dathatreyan_480px.png
     content: about_gautham_dathatreyan.md
