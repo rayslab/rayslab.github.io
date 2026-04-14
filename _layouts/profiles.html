@@ -6,6 +6,17 @@ layout: page
       <div class="post">
 
         <article>
+          {% if page.header_gallery %}
+          <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 1.5rem;">
+            {% for item in page.header_gallery %}
+              <img src="{{ item.image | prepend: 'assets/img/' | relative_url }}"
+                   class="img-fluid rounded"
+                   style="width: 100%; height: auto; object-fit: cover;"
+                   alt="{{ item.image }}">
+            {% endfor %}
+          </div>
+          {% endif %}
+
           {% if page.profiles -%}
           {% for profile in page.profiles %}
           <hr>
