@@ -36,10 +36,6 @@ profiles:
     content: about_anshuman_ashish.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: banhita_maitra.png
-    content: about_banhita_maitra.md
-    image_circular: true # crops the image to make it circular
-  - align: left
     image: deepa_sm.png
     content: about_deepa_sm.md
     image_circular: true # crops the image to make it circular

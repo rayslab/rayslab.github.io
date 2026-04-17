@@ -1,3 +1,3 @@
 **Shagun Rana**
 
-*Research Fellow*
+*Research Fellow, Plaksha University*

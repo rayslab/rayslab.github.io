@@ -1,3 +1,3 @@
 **Prashant Tiwari**
 
-*Undergraduate Student*
+*Undergraduate Student, Plaksha University*
