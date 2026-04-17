@@ -1,3 +1,3 @@
 **Harshpreet Kaur**
 
-*PhD Student*
+*PhD Student, Plaksha University*
