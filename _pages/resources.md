@@ -65,5 +65,5 @@ nav_order: 70
 
 ## on mathematics
   * [Math for machine learning](https://mml-book.github.io/book/mml-book.pdf) - free book
-  * [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) - an introductory textbook on differential equations - good for students with non-engineering background as well
+  * [Mathew Charnley's course (with link to free book PDF and github code)](https://sites.rutgers.edu/matthew-charnley/course-materials/differential-equations-an-introduction-for-engineers/) - enhanced version of [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) - an introductory textbook on differential equations - good for students with non-engineering background as well
   * [Three blue one brown](https://www.youtube.com/c/3blue1brown) - fantastic video tutorials on providing physical intuition for various abstract mathematical concepts (youtube)
