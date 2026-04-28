@@ -31,15 +31,15 @@ nav_order: 70
   * [Wulfram Gerstner's course at EPFL](https://lcnwww.epfl.ch/gerstner/NeuronalDynamics-MOOCall.html)
   * [Robert Sapolsky's lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D)
 
-### Simulators	
+### Simulators
   * [MOOSE (Multi-scale Object Oriented Simulation Environment)](https://moose.ncbs.res.in): a general purpose simulation software for biology with focus on systems biology and neuroscience simulations. Inherits a lot from the GENESIS simulator.
   * [NEURON](https://neuron.yale.edu): another simulator with primary focus on neuronal models; added some systems biology capabilities in recent years.
 
 ### Databases
-	
+
   * [Open Source Brain](http://www.opensourcebrain.org/): a public repository of neuronal models
-  * [neuromorpho.org](https://neuromorpho.org/): a public repository of neuronal morphologies	
-  * [NeuroElectro](https://neuroelectro.org/): a public database of electrophysiological properties of various neurons  
+  * [neuromorpho.org](https://neuromorpho.org/): a public repository of neuronal morphologies
+  * [NeuroElectro](https://neuroelectro.org/): a public database of electrophysiological properties of various neurons
   * [Allen Brain-Map](https://portal.brain-map.org/): multiple databases, from single cells to brain atlas
   * [Micron explorer](https://www.microns-explorer.org/): Allen Brain Institute portal with electron-microscopic reconstructions of mouse visual cortex circuitry
 
@@ -65,5 +65,5 @@ nav_order: 70
 
 ## on mathematics
   * [Math for machine learning](https://mml-book.github.io/book/mml-book.pdf) - free book
-  * [Three blue one brown](https://www.youtube.com/c/3blue1brown) - fantastic video tutorials on youtube
-
+  * [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) - an introductory textbook on differential equations - good for students with non-engineering background as well
+  * [Three blue one brown](https://www.youtube.com/c/3blue1brown) - fantastic video tutorials on providing physical intuition for various abstract mathematical concepts (youtube)
