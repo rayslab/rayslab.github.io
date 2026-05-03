@@ -21,7 +21,7 @@ nav_order: 70
 ## on neuroscience
 ### Books
   * [Brain Facts](https://www.brainfacts.org/-/media/Brainfacts2/BrainFacts-Book/Brain-Facts-PDF-with-links.pdf) Very basic and brief intro from the Society for Neuroscience
-  * [Austin Lim's Open Neuroscience textbook](https://www.austinlim.com/open-neuroscience-initiative) for Under Graduate level
+  * [Austin Lim's Open Neuroscience textbook](https://www.austinlim.com/open-neuroscience-initiative) for Undergraduate level
   * [Open Access Neuroscience textbook](https://nba.uth.tmc.edu/neuroscience/) by current and former faculty of the Department of Neurobiology and Anatomy at The University of Texas Health Science Center at Houston, McGovern Medical School
   * [The Book of GENESIS](http://www.genesis-sim.org/GENESIS/bog/bog.html): a free book on neuroscience simulations in the context of the GENESIS simulator. Very readable introduction to computational neuroscience irrespective of the simulator
   * [Wulfram Gerstner's book](https://neuronaldynamics.epfl.ch/)
