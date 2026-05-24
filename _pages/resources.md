@@ -29,6 +29,7 @@ nav_order: 70
 
 ### Courses
   * [Wulfram Gerstner's course at EPFL](https://lcnwww.epfl.ch/gerstner/NeuronalDynamics-MOOCall.html)
+  * [Materials from Computational Neuroscience course by Elias Najarro and Rune Berg](https://berglab.github.io/CompNeuroCourse/intro.html)
   * [Robert Sapolsky's lectures on Human Behavioral Biology](https://www.youtube.com/watch?v=NNnIGh9g6fA&list=PL848F2368C90DDC3D)
 
 ### Simulators
