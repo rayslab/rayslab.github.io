@@ -43,6 +43,16 @@ Our research activities have the following technical subcomponents:
    3. Other software tools: We also maintain several free and open source software tools like [argos](https://github.com/subhacom/argos) for tracking multiple animals/objects, [nsdf](https://github.com/nsdf/nsdf) for storing neuroscience simulation data, etc.
 
 
+**Support**
+
+<img src="../assets/img/The_Kavli_Foundation_Logo_Blue_Red_200px.png" style="max-width: 200px; display: block; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Kavli Foundation logo">
+Software development and community activities for MOOSE are supported by a CZI EOSS Cycle 6 grant funded by the Kavli Foundation.
+
+
+<img src="../assets/img/TCG_CREST_Logo_200px.png" style="max-width: 200px; display: block; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="TCG CREST logo">
+
+
+
 <img
     style="display: block;
            margin-left: auto;
@@ -54,3 +64,6 @@ Our research activities have the following technical subcomponents:
 *<small style="text-align:center;">Kolkata Skyline from TCG CREST Building</small>*
 
 ###### *Images: Subhasis Ray*
+
+
+###### Site maintained by: Subhasis Ray
