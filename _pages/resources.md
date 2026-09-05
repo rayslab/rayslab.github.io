@@ -34,7 +34,7 @@ nav_order: 70
 
 ### Simulators
   * [MOOSE (Multi-scale Object Oriented Simulation Environment)](https://moose.ncbs.res.in): a general purpose simulation software for biology with focus on systems biology and neuroscience simulations. Inherits a lot from the GENESIS simulator.
-  * [NEURON](https://neuron.yale.edu): another simulator with primary focus on neuronal models; added some systems biology capabilities in recent years.
+  * [NEURON](https://www.neuronsimulator.org/): another simulator with primary focus on neuronal models; added some systems biology capabilities in recent years.
 
 ### Databases
 
@@ -54,7 +54,7 @@ nav_order: 70
   * [Sanjeev Arora's book draft at Princeton](https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf) - this is heavy on the math
 
 ### Course materials
-  * [Standford course CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
+  * [Stanford course CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/index.html)
   * [Stanford course CS231n: Convolutional Neural Networks for Visual Recognition course notes](https://cs231n.github.io/)
   * [CS 285 at UC Berkeley](https://rail.eecs.berkeley.edu/deeprlcourse/)
   * [David silver lectures](https://www.davidsilver.uk/teaching/)

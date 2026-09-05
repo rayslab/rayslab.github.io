@@ -15,13 +15,20 @@ nav_order: 60
 <br>
 *-- Heinrich Hertz*,
 <br>
-*when asked about his experimental demonstration of electromagnetic waves*
+*when asked about the use of his experimental demonstration of electromagnetic waves. Yet, the modern world of technology, including the little electronci device which you may be reading this on, is built on Maxwell and Hertz' "useless" research*
 </p>
 ----
 
 Our primary focus is basic research (also called fundamental research), which is driven by curiosity and aimed at gaining knowledge of nature. We are frequently asked to justify the value of such work. This is analogous to evaluating education by the money students make afterwards. It is impossible to predict what value a piece of knowledge will bring in the future. True research is about going after the unknown, and as Albert Einstein had put it "If we knew what it was we were doing, it would not be called research, would it?"
 
 However, that hardly convinces the skeptics. Much has been written about the value of basic research, so instead of repeating these arguments, here is a list of articles on this topic:
+
+- If you are here, you probably think *value = $$$*. To avoid wasting your valuable time, here are two estimations of monetary value of basic research:
+  - [A 1979 article](https://garfield.library.upenn.edu/essays/v4p285y1979-80.pdf)
+  - [A blog post from International Monetary Fund (IMF)]( https://www.imf.org/en/Blogs/Articles/2021/10/06/blog-ch3-weo-why-basic-science-matters-for-economic-growth)
+
+
+If you have a little more time to read, and are looking for broader discussions:
 
 - [Post](https://www.deeplearning.ai/the-batch/issue-303/) by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), a great teacher and one of the leaders in the AI/ML field, expressing concern over funding cut on basic research.
 
@@ -37,14 +44,10 @@ However, that hardly convinces the skeptics. Much has been written about the val
 
 - [A piece from Harvard University](https://sitn.hms.harvard.edu/flash/2019/not-so-basic-research-the-unrecognized-importance-of-fundamental-scientific-discoveries/)
 
-- [The National Science Foundation (NSF), USA, 1953 Annual Report](https://www.nsf.gov/pubs/1953/annualreports/ar_1953_sec6.pdf)
+- [The National Science Foundation (NSF), USA, 1953 Annual Report](https://web.archive.org/web/20250619145253/https://www.nsf.gov/pubs/1953/annualreports/ar_1953_sec6.pdf)
 
 - [A piece in MIT's Spectrum magazine](https://spectrum.mit.edu/spring-2014/the-brilliance-of-basic-research/)
 
 - [An editorial in Nature](https://www.nature.com/articles/d41586-022-04172-8)
 
-- [A list at CERN](http://public-archive.web.cern.ch/en/About/BasicScience3-en.html) (this is where the world wide web was created - to support basic research in Physics)
-
-- For those looking for monetary value:
-  - [A 1979 article](http://www.garfield.library.upenn.edu/essays/v4p285y1979-80.pdf)
-  - [A blog post from International Monetary Fund (IMF)]( https://www.imf.org/en/Blogs/Articles/2021/10/06/blog-ch3-weo-why-basic-science-matters-for-economic-growth)
+- [A list at CERN](https://web.archive.org/web/20240724002822/https://public-archive.web.cern.ch/en/About/BasicScience3-en.html) (this is where the world wide web was created - to support basic research in Physics)
