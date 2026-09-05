@@ -35,6 +35,7 @@ nav_order: 70
 ### Simulators
   * [MOOSE (Multi-scale Object Oriented Simulation Environment)](https://moose.ncbs.res.in): a general purpose simulation software for biology with focus on systems biology and neuroscience simulations. Inherits a lot from the GENESIS simulator.
   * [NEURON](https://www.neuronsimulator.org/): another simulator with primary focus on neuronal models; added some systems biology capabilities in recent years.
+  * [Brian2](https://briansimulator.org/): another neurosimulator focused on spiking neuron models.
 
 ### Databases
 
