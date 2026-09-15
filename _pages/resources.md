@@ -65,8 +65,9 @@ nav_order: 70
   * [Andrej Karpathy's blog](https://karpathy.github.io/)
   * [Podcast episode on Reinforcement Learning resources](https://www.youtube.com/watch?v=8CNXPihvWEU)
 
-## on mathematics
+## on mathematics and statistics
   * [Math for machine learning](https://mml-book.github.io/book/mml-book.pdf) - free book
   * [Mathew Charnley's course (with link to free book PDF and github code)](https://sites.rutgers.edu/matthew-charnley/course-materials/differential-equations-an-introduction-for-engineers/) - enhanced version of [Notes on Diffy Qs: Differential Equations for Engineers](https://www.jirka.org/diffyqs/) - an introductory textbook on differential equations - good for students with non-engineering background as well
   * [Introduction to Probability, Statistics, and Random Processes](https://www.probabilitycourse.com/) - free, open access textbook
-  * [Three blue one brown](https://www.youtube.com/c/3blue1brown) - fantastic video tutorials on providing physical intuition for various abstract mathematical concepts (youtube)
+  * [Rich Gonzalez's Statistics Notes](https://websites.umich.edu/~gonzo/coursenotes/) - course notes on some advanced statistical techniques by [Richard Gonzalez](https://faculty.isr.umich.edu/gonzo/). Includes ANOVA, regression, clustering, and dimensionality reduction techniques
+  * [Three blue one brown](https://www.youtube.com/c/3blue1brown) - fantastic video tutorials to build intuition for various abstract mathematical concepts (youtube)
