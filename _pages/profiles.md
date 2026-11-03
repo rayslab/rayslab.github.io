@@ -48,10 +48,6 @@ profiles:
     content: about_jayesh_poojari.md
     image_circular: true # crops the image to make it circular
   - align: left
-    image: parita_mehta_480px.png
-    content: about_parita_mehta.md
-    image_circular: true # crops the image to make it circular
-  - align: left
     image: pragathi_r.jpg
     content: about_pragathi_r.md
     image_circular: true # crops the image to make it circular
