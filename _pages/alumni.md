@@ -10,6 +10,8 @@ profiles:
   # if you want to include more than one profile, just replicate the following block
   # and create one content file for each profile inside _pages/
   - align: left
+    content: about_gautham_tmp.md
+  - align: left
     content: about_parita_mehta.md
   - align: left
     content: about_deepa_sm.md
