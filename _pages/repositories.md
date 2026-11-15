@@ -7,6 +7,8 @@ nav: true
 nav_order: 80
 ---
 
+"Telling a programmer there’s already a library to do X is like telling a songwriter there’s already a song about love." — Pete Cordell
+
 ## GitHub users
 
 {% if site.data.repositories.github_users %}
