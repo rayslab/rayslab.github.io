@@ -32,19 +32,21 @@ In terms of techniques, we use computer vision algorithms to analyze behavior of
 <img src="../assets/img/rayslab_logo_small.svg" style="max-width: 200px; display: block; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Lab logo">
 
 Our research activities have the following technical subcomponents:
-
+<img
+  src="../assets/img/IMG_20260921_094010_cropped.jpg"
+  style="float: right; width: 300px; max-width: 40%; height: auto; margin: 0 0 1rem 1.5rem;"
+  class="img-fluid rounded z-depth-1"
+  alt="Grasshoppers">
 1. Animal experiments
    1. Electrophysiology and histology: This involves recording neural activity from awake insect brains under various conditions, injecting dyes into neurons or brain regions and finding structure and anatomical connectivity of neurons and brain regions.
    2. Behavior: This involves designing behavioral experiments and recording the activities of the animals using videography or other techniques, and analyzing the behavior.
-
-<img src="../assets/img/IMG_20260921_094010_cropped.jpg" style="max-width: 300px; display: block; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Grasshoppers">
 
 2. Computational work
    1. Developing computational/mathematical models of neurons, brain networks, and simulating them with various parameter settings. These simulation experiments can give theoretical insight into how the brain works.
    2. Developing simulation tool: We are actively working on [the MOOSE simulator](https://mooseneuro.github.io) to add features and documentation, and make it easy to use for both students and researchers.
    3. Other software tools: We also maintain several free and open source software tools like [argos](https://github.com/subhacom/argos) for tracking multiple animals/objects, [nsdf](https://github.com/nsdf/nsdf) for storing neuroscience simulation data, etc.
 
-
+<div style="clear: both;"></div>
 **Support**
 
 <img src="../assets/img/The_Kavli_Foundation_Logo_Blue_Red_200px.png" style="max-width: 200px; display: block; margin-bottom: 10px;" class="img-fluid rounded z-depth-1" alt="Kavli Foundation logo">
